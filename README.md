@@ -19,7 +19,7 @@ The Evaluation metric is to get the best accuracy
 * Features
 
 
-The data Features include; 
+The data Features include; ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes,	and Turbidity
 
 
 * Modelling
