@@ -25,4 +25,14 @@ The data Features include; ph, Hardness, Solids, Chloramines, Sulfate, Conductiv
 * Modelling
 
 
-The Model used are Random Forest Classifier (RFC), Logistic Regression, Linear SVC, Adaboost Classifier, Catboost, Xgboost, Decision Tree, Logistic Regression, Kneigbhor
+The Model used are; Random Forest Classifier, Logistic Regression, Linear SVC, AdaboostClassifier, Catboost, XgboostClassifier,
+DecisionTreeClassifier, Logistic Regression, KneigbhorClassifier, Linear SVC, GaussianNB()
+
+
+
+        
+
+        
+   
+
+          
